@@ -12,7 +12,3 @@ Web Scraping Exercise BeautifulSoup:
 Web Scraping Coding Demo Selenium:
 
 [![Web Scraping Coding Demo Selenium](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u46hzYInfiy9ZaT2NuJfdlnhDuGQaEBF?usp=drive_link)
-
-Web Scraping Fill out Form:
-
-[![Web Scraping Coding Demo Selenium Fill out form](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ItxgtucEKva35DfVyCL4LsS3pkB8Sl1v?usp=sharing)
